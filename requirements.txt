@@ -1,0 +1,6 @@
+# Hermes Agent Persian Web UI
+# This application relies exclusively on the Python Standard Library (Python >= 3.9).
+# No external pip packages are required!
+#
+# Prerequisite:
+# Hermes Agent CLI must be installed and accessible on PATH (https://hermes-agent.nousresearch.com)
